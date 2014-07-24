@@ -11,6 +11,8 @@ You must have Python and Pygame installed. If you have Python, but not Pygame, I
 Licensing and Credits
 =====================
 
+This Software is licensed under the GPL3+, as detailed in robotetropolis.py.
+
 In Canada, the AoStH likeness of Dr Robotnik is no longer trademarked, and is thus open to parody without the slightest chance of lawsuit, though in your country the situation may be different. If you want to fork, and you're unsure, check out your local trademark registry. Props to Bohbot Comm., Sonic Team, and Sega for developing the character.
 
 For the background music, I originally used Ohne Zuschlag, by Din Stalker. I still think it fits the game much better. I've left the song in the resources folder for you to easily rename and get it in the project, here's a link to the song on youtube: [http://www.youtube.com/watch?v=ho79ysRKlHw]
