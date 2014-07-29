@@ -1,7 +1,12 @@
 Robotetropolis
 ==============
 
-A Python/Pygame clone of Tetris, as designed in one week during January of 2012, to build my Python skill, since I was getting rusty. Just run 'robotetropolis.py' and you're in! There's some quirks to how I did things (I cheated a bit with the intro animation, but it was *fast* to implement :] ), so a few things may look/sound odd on first run. Once your OS has cached the resources, everything should be much smoother.
+A Python/Pygame clone of Tetris, as designed in one week during January of 2012, to build my Python skill, since I was getting rusty.
+
+Use
+===
+Just run 'robotetropolis.py' and you're in! There's some quirks to how I did things (I cheated a bit with the intro animation, but it was *fast* to implement :] ), so a few things may look/sound odd on first run. Once your OS has cached the resources, everything should be much smoother.
+
 
 Dependencies
 ============
